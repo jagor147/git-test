@@ -11,5 +11,6 @@ public class GitTest {
         System.out.println("Git Hello3");
         System.out.println("Git Hello4");
         System.out.println("master分支信息");
+        System.out.println("push Test");
     }
 }
